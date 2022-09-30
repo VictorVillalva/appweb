@@ -1,0 +1,18 @@
+@font-face{
+    font-family: Lemonmilk ;
+    src : url('../Fonts/LEMONMILK-Bold.otf');
+}
+body{
+    background-color: #252525;
+}
+.container{
+    position: relative;
+    left: 25%;
+    border : 1px solid black;
+    border-radius: 5px;
+    width: 600px;
+    text-align: center;
+    background-color:aliceblue;
+    height: 550px;
+}
+
